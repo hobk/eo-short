@@ -1,6 +1,6 @@
 # EdgeOne 短链接服务
 
-基于腾讯云 EdgeOne构建的简单快速、无服务器短链接服务。[点此体验demo](https://s.hpop.cn)
+基于腾讯云 EdgeOne构建的简单快速、无服务器短链接服务。
 
 ⚠️（[KV存储](https://console.cloud.tencent.com/edgeone/pages?tab=kv)开放名额有限，**审核通过后可用**）
 
